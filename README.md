@@ -105,3 +105,9 @@ Mais detalhes estão disponíveis em https://github.com/HXLStandard/hxl-proxy/wi
 
 A documentação completa do usuário está disponível em [HXL Proxy wiki](https://github.com/HXLStandard/hxl-proxy/wiki).
 
+# Aviso Legal
+Tanto o site <https://padrao-hxl.etica.ai> como a organização no GitHub
+<https://github.com/HXL-CPLP> e seus projetos são realizações voluntárias do
+**Grupo de Usuários do Padrão HXL da Comunidade dos Países de Língua
+Portuguesa** e, ainda que possa haver colaboração ou uso de conteúdo,
+**não somos afiliados ou endossados por HXLStandard.org, OCHA, IFRC e afins**.
